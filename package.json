@@ -1,0 +1,8 @@
+{
+  "name": "getting-started-with-redux",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:riojack/getting-started-with-redux.git",
+  "author": "AJ <riojack@users.noreply.github.com>",
+  "license": "MIT"
+}
